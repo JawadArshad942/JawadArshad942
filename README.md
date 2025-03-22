@@ -1,7 +1,7 @@
 
 ### 👋 Hi, I'm Jawad!
 
-**Flutter Developer | Crafting Mobile Experiences**
+**Flutter Developer**
 
 I’m passionate about building beautiful, efficient mobile apps with Flutter. Here’s a quick look at what I’m up to and how we can connect:
 
